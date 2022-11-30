@@ -1,6 +1,6 @@
 :root {
-  --border-color: #144fc6;
-  --fill-color: #6ab3f8;
+  --border-color: #1041a5;
+  --fill-color: #8ac1f4;
 }
 
 @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap");
@@ -10,7 +10,7 @@
 }
 
 body {
-  background-color: #3494e4;
+  background-color: #97bddd;
   color: white;
   font-family: poppins;
   display: flex;
