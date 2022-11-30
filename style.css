@@ -100,3 +100,17 @@ h3 {
   text-align: center;
   margin: 0 0 5px;
 }
+
+footer {
+  margin-top: 20px;
+}
+a {
+  text-decoration: none;
+  margin: 10px;
+}
+
+.fa-brands {
+  font-size: 30px;
+  margin-top: 10px;
+  color: white;
+}
